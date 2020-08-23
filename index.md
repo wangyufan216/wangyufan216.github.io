@@ -38,3 +38,12 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 ### 2020/6/26 14:00
 This is the first time that I use my new github account.
+
+### Interests
+Bioinformatics, machine learning
+
+### Publications
+
+### Projects
+
+
